@@ -1002,6 +1002,7 @@ main {
  */
 
 .skills-title {
+  margin-top: 40px;
   margin-bottom: 20px;
 }
 
@@ -2256,3 +2257,4 @@ textarea.form-input::-webkit-resizer {
   box-shadow: 0 8px 20px rgba(250, 204, 21, 0.35);
   background: #fde047;
 }
+
