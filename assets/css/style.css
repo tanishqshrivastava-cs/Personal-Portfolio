@@ -974,7 +974,7 @@ main {
   top: -25px;
   left: -30px;
   width: 1px;
-  height: calc(320% + 50px);
+  height: calc(280% + 50px);
   background: var(--jet);
 }
 
