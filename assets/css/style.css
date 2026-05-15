@@ -398,11 +398,12 @@ main {
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
-  font-size: var(--fs-8);
-  font-weight: var(--fw-300);
+  font-size: 14px;
+  font-weight: 500;
   width: max-content;
-  padding: 3px 12px;
-  border-radius: 8px;
+  padding: 8px 18px;
+  border-radius: 12px;
+  letter-spacing: 0.4px;
 }
 
 .info_more-btn {
